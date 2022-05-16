@@ -16,7 +16,7 @@ gradient colors that are always changing or animating.
 ## Features
 * Create beautiful backgrounds
 * Use multiple colors as backgrounds with animation
-* Add decorations with containers to make the app more beautiful.
+* Add decorations with containers to make the app more beautiful.<br>
 <img src="https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg1.gif" alt="backgorund without decoration" width="200"/>&ensp;&ensp;
 <img src="https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg2.gif" alt="backgorund with decoration" width="200"/>&ensp;&ensp;
 
@@ -103,4 +103,9 @@ ColorfulBackground(
 * backgroundColors: Takes a list of colors for background animation
 * decoratorsList: Takes a list of widgets as the decorations for the widget. It is recommended to wrap each child in Positioned widget.
 * child: Takes a widget as child
+
+## Conclusion
+🌟 Star this repo & follow for more 😊
+
+<a href="https://www.buymeacoffee.com/abgth" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
