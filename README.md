@@ -16,10 +16,9 @@ gradient colors that are always changing or animating.
 ## Features
 * Create beautiful backgrounds
 * Use multiple colors as backgrounds with animation
-* Add decorations with containers to make the app more beautiful.<br>
-<img src="https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg1.gif" alt="backgorund without decoration" width="200"/>&ensp;&ensp;
-<img src="https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg2.gif" alt="backgorund with decoration" width="200"/>&ensp;&ensp;
-
+* Add decorations with containers to make the app more beautiful.<br><br>
+![background without decoration](https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg1.gif)
+![background with decoration](https://github.com/x-abgth/x-abgth/blob/master/img/colorful_background/bg2.gif)
 ## Getting started
 This package is simple to use. It contains a duration and a list background colors as required 
 attributes. Rest all the attributes has a default value, but you can change properties to accomplish your needs. 
@@ -27,7 +26,7 @@ attributes. Rest all the attributes has a default value, but you can change prop
 ### Add dependencies
 ```dart
 dependencies:
-  colorful_background: ^0.0.1
+  colorful_background: ^0.0.4
 ```
 
 ### Add imports
